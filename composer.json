@@ -27,7 +27,7 @@
         "swiftmailer/swiftmailer": ">=5.4.5,~5.0|^6.0",
         "doctrine/orm": "~2.0,>=2.2",
         "monolog/monolog": "~1.6,>=1.6.0",
-        "friendsofsymfony/user-bundle": "~2.0",
+        "friendsofsymfony/user-bundle": "~3.1",
         "twig/extensions": "~1.0",
         "ramsey/uuid": "~3.2",
         "knplabs/knp-paginator-bundle": "^2.6",
